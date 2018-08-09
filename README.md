@@ -1,5 +1,6 @@
 # lightCan
 A program that converts strings into any number of codes that can be transmitted by light, into light pulses that a receiving program decodes.
+
 8/8/18 - My final of three projects I thought of putting together to stay in touch with some friends from
 a recent Python course we all took at CSULA. Aloha friends! Thanks for the help!
 
