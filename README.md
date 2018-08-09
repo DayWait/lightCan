@@ -1,14 +1,19 @@
 # lightCan
 A program that converts strings into any number of codes that can be transmitted by light, into light pulses that a receiving program decodes.
 
-8/8/18 - My final of three projects I thought of putting together to stay in touch with some friends from
+8/9/18
+Adding my first bit of spaghetti code, BUT to be fair I made this when libraries had not been introduced
+in the class I was taking, and they were also not allowed to be used. Next step is turn this into a library.
+
+8/8/18
+My final of three projects I thought of putting together to stay in touch with some friends from
 a recent Python course we all took at CSULA. Aloha friends! Thanks for the help!
 
 So the plan for this program seems simple but it also has challenges that I have not faced yet such as
 interfacing with hardware. The idea is to have a program that can convert basic strings into, at first,
 a morse code that is then output from a device as a series of light pulses of varying duration.
 
-Later maybe Light Can could transmit binary or even some defined code. 
+Later maybe Light Can could eventually transmit binary or even some defined code. 
 
 The program would function as an instant messenger for people in situations where they may have access to
 a smart device but no network access. If they need help the program could output international distress 
@@ -19,5 +24,6 @@ which derives from the old two cans joined by a wire. Here the wire is light. I 
 be used in scenarios where, once again, network access is unavailable but there was a need to communicate with
 a teammate.
 
-To be honest I have researched to see if this already exists. It might but perhaps this will be a bit different. 
+To be honest I did not research to see if this already exists. It might but perhaps this will be a bit different
+...
 Just checked and something similar, if not exactly the same, exists and it is called ... who cares? Let's do this!
